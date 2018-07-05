@@ -1,4 +1,5 @@
-![21 Savage](public/21savage.jpg)
+This is a to do list so when you add something it stays
+you can also delete or edit what ever is up on the list
 
 ## Installation
 
@@ -7,5 +8,5 @@
 
 ## Usage
 
-1. run `npm run savage`
+1. run `node server.js`
 2. Navigate to `localhost:3000`
